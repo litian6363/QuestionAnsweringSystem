@@ -32,7 +32,7 @@
         <title>人机问答系统演示</title>
     </head>
     <body>
-        <h1><font color="blue">人机问答系统演示 <a href="https://github.com/ysc/QuestionAnsweringSystem" target="_blank">项目主页</a></font></h1>
+        <h1><font color="blue">人机问答系统演示 </font></h1>
                 <%
                     int i = 1;
                     for (Question question : questions) {

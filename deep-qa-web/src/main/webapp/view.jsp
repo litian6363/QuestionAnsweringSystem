@@ -52,7 +52,7 @@
         </script>
     </head>
     <body>
-        <h1><font color="blue">人机问答系统演示 <a href="https://github.com/ysc/QuestionAnsweringSystem" target="_blank">项目主页</a></font></h1>
+        <h1><font color="blue">人机问答系统演示 </font></h1>
         <h2><a href="index.jsp?q=<%=questionStr%>">忽略细节</a></h2>
                 <%
                     if (questionStr == null || questionStr.trim().length() <= 3) {
@@ -106,12 +106,12 @@
         } else {
         %>
         <p>
-            <b>可以像如下提问：</b><br/>
-            1、<a href="view.jsp?q=开源项目APDPlat应用级产品开发平台的作者是谁？">开源项目APDPlat应用级产品开发平台的作者是谁？</a><br/>
-            2、<a href="view.jsp?q=APDPlat开源项目的发起人是谁？">APDPlat开源项目的发起人是谁？</a><br/>
-            3、<a href="view.jsp?q=谁死后布了七十二疑冢？">谁死后布了七十二疑冢？</a><br/>
-            4、<a href="view.jsp?q=谁是资深Nutch搜索引擎专家？">谁是资深Nutch搜索引擎专家？</a><br/>
-            5、<a href="view.jsp?q=BMW是哪个汽车公司制造的？">BMW是哪个汽车公司制造的？</a><br/>
+            <b>目前只支持以下答案类型：</b><br/>
+            1、<a href="index.jsp?q=中国第一位皇帝是谁？">人名</a><br/>
+            2、<a href="index.jsp?q=汉城是哪个国家的首都？">地名</a><br/>
+            3、<a href="index.jsp?q=BMW是哪个汽车公司制造的？">机构团体名</a><br/>
+            4、<a href="index.jsp?q=全球表面积有多少平方公里？">数字</a><br/>
+            5、<a href="index.jsp?q=邓小平在什么时候进行南巡讲话？">时间</a><br/>
         </p>
         <font color="red">输入问题：</font><input id="q" name="q" size="50" maxlength="50">
         <p></p>
