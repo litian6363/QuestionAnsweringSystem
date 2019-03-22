@@ -306,6 +306,7 @@ Number 地球表面积是多少
 Number 地球上海洋面积有多大
 Number 加拿大的国土面积是多少
 Number 全球表面积有多少
+Number 全球表面积有多少平方公里
 Number 撒哈拉沙漠的面积多大
 Number 撒哈拉有多少平方公里
 Number 委内瑞拉的面积是多大

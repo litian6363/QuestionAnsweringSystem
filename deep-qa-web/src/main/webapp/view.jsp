@@ -107,11 +107,11 @@
         %>
         <p>
             <b>目前只支持以下答案类型：</b><br/>
-            1、<a href="index.jsp?q=中国第一位皇帝是谁？">人名</a><br/>
-            2、<a href="index.jsp?q=汉城是哪个国家的首都？">地名</a><br/>
-            3、<a href="index.jsp?q=BMW是哪个汽车公司制造的？">机构团体名</a><br/>
-            4、<a href="index.jsp?q=全球表面积有多少平方公里？">数字</a><br/>
-            5、<a href="index.jsp?q=邓小平在什么时候进行南巡讲话？">时间</a><br/>
+            1、<a href="index.jsp?q=中国第一位皇帝是谁">人名</a><br/>
+            2、<a href="index.jsp?q=汉城是哪个国家的首都">地名</a><br/>
+            3、<a href="index.jsp?q=BMW是哪个汽车公司制造的">机构团体名</a><br/>
+            4、<a href="index.jsp?q=全球表面积有多少平方公里">数字</a><br/>
+            5、<a href="index.jsp?q=邓小平在什么时候进行南巡讲话">时间</a><br/>
         </p>
         <font color="red">输入问题：</font><input id="q" name="q" size="50" maxlength="50">
         <p></p>
@@ -120,7 +120,7 @@
             }
         %>  	
         <br/>
-        <h2><a href="<%=request.getContextPath()%>/view.jsp">返回主页</a></h2>
+        <h2><a href="view.jsp">返回主页</a></h2>
         <h2><a href="history_questions.jsp">其他用户曾经问过的问题</a></h2>
     </body>
 </html>

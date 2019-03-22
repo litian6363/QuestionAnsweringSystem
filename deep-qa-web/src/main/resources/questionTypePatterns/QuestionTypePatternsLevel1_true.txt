@@ -199,6 +199,7 @@ Location 巴士底狱在哪
 Location 玻利维亚在哪
 Location 项羽是在哪条江边自刎的
 Location 中国的"母亲河"指哪条河
+Location 汉城是哪个国家的首都
 
 Organization 爱国华侨陈嘉庚出资兴建的大学是哪一所
 Organization 电影界百花奖的主办单位是什么
@@ -298,6 +299,7 @@ Organization 前身中央人民政府体育运动委员会的现在是什么部�
 Organization 我国主管税收工作的正部级直属机构是什么部门
 Organization 市场监督管理和有关行政执法工作的直属机构是什么
 Organization 中国科学技术方面的最高学术机构是什么
+Organization BMW是哪个汽车公司制造的
 
 Number 北京邮电大学的占地面积有多大
 Number 北京大学占地多少平方米
@@ -309,6 +311,7 @@ Number 全球表面积有多少
 Number 撒哈拉沙漠的面积多大
 Number 撒哈拉有多少平方公里
 Number 委内瑞拉的面积是多大
+Number 全球表面积有多少平方公里
 
 Time 《中英关于香港问题的联合声明》在北京正式签字在哪一年
 Time 澳门回归祖国在哪一年
@@ -320,3 +323,4 @@ Time 发现大庆油田在哪一年
 Time 美国向日本广岛投下第１颗原子弹是在哪一年
 Time 美国总统罗纳德·里根对中国进行正式访问在哪一年
 Time 巴黎凯旋门从哪一年开始建造
+Time 邓小平在什么时候进行南巡讲话
